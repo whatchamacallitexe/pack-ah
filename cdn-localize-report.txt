@@ -7,17 +7,14 @@ FAILED https://cdn.jsdelivr.net/gh/genizy/web-port@main/deltarune/free.html?t=: 
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@3abdc351ec2110f248895a335/DiamondHollow2.swf: curl: (22) The requested URL returned error: 404
 
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU OK a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76 cores=fceumm,mgba
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@5b85fd4cc3997d1ca2b674dcd/DigDug.gba: curl: (22) The requested URL returned error: 404
 
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
 FAILED https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/roms/DonkeyKong.gba: curl: (22) The requested URL returned error: 404
 
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
 BASE FAIL genizy/dmad-poki@49b5ab6/: Cloning into '/tmp/cdn-upstreams/d82ba4f4fd382d3e'...
 fatal: could not read Username for 'https://github.com': No such device or address
 
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@07dd631136afe70d5b36871e4/DuckHunt.nes: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/duke3d@main/duke.js: curl: (22) The requested URL returned error: 404
