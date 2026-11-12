@@ -18,4 +18,4 @@ FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@07dd631136afe70d5b
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/duke3d@main/duke.js: curl: (22) The requested URL returned error: 404
 
-RUFFLE FAIL module 'urllib' has no attribute 'request'
+RUFFLE OK 1 wrappers
